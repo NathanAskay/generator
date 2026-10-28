@@ -1,0 +1,31 @@
+{
+  "name": "pdfgen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanAskay/generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanAskay/generator/issues"
+  },
+  "homepage": "https://github.com/NathanAskay/generator#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.4.0",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "pdfkit": "^0.20.2",
+    "twilio": "^6.2.0",
+    "uuid": "^14.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
